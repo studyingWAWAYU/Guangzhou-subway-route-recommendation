@@ -32,7 +32,7 @@
 
 ### 贡献
 Feel free to dive in Open an issue or submit PRs.  
-Simple-web-page follows the Contributor Covenant Code of Conduct.
+Guangzhou-subway-route-recommendation follows the Contributor Covenant Code of Conduct.
 
 ### 许可证
 MIT License
