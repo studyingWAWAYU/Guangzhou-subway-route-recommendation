@@ -9,7 +9,7 @@
 * 许可证
 
 ### 背景
-这是一个”数据结构与算法“课程的课程大作业，提供了对广州地铁1号线到6号线的任意两站点间最短路程、最短时间、最少站点路径的推荐。
+提供了对广州地铁1号线到6号线的任意两站点间最短路程、最短时间、最少站点路径的推荐。
 <br>其中每两站间的路程和时间是根据高德地图的查询结果估计的，不是官方的数据。在查询最短时间中，默认每次换乘额外耗时2分钟。
 <br>参考广州官方规划图（如下图）
 <br><img src="https://github.com/studyingWAWAYU/Guangzhou-subway-route-recommendation/blob/main/ReferenceRoute.png" width="80%" height="80%"/>
